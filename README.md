@@ -34,4 +34,6 @@ This report highlights key Paralympic achievements, focusing on:
   
 ## Further Insights: [Explore the Full Analysis](https://github.com/Mayreeobi/Paralympic-Medal-Analysis/blob/main/Paralypmic%20analysis.pdf)
 
+![Dashboard snippet](https://github.com/Mayreeobi/Paralympic-Medal-Analysis/blob/main/Paralypmic%20Medal%20Dashboard.png)
+
 
