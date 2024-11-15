@@ -2,7 +2,7 @@
 
 The Paralympic Games have long stood as a testament to human resilience, determination, and the unwavering pursuit of excellence. Since their inception in 1960, the Games have grown into a global stage where athletes with disabilities showcase their talent and determination. Over the years, the Paralympics have seen records shattered, barriers broken, and athletes who continue to inspire the world.
 
-This submission is part of the September Onyx #dataDNA challenge featuring the Paralympic Dataset!
+My submission to the September Onyx #dataDNA challenge featuring the Paralympic Dataset!
 
 ### Interactive Dashboard: [Click Here](https://public.tableau.com/views/paralympics_finals/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
